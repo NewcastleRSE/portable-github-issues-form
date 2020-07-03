@@ -1,9 +1,6 @@
 # Portable GitHub Issues Form
 
-Easily add a beautiful Bug Report form on your website/application, that is sent to a GitHub repository Issues.
-3 lines of code and you are done.
-
-[Demo](http://pixeline.tk/portable-github-issues-form/)
+Easily add a Bug Report form on your web application, directly connected to the GitHub repository Issues.
 
 ![](./docs/demo.gif)
 
